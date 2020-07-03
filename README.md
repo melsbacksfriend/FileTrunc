@@ -14,3 +14,7 @@ git clone --recursive https://github.com/melsbacksfriend/FileTrunc.git
 cd FileTrunc/FileTrunc-Example
 
 g++ FileTrunc.cpp -std=c++17 -o FileTrunc
+
+# Limitations
+
+Doesn't work on Windows due to using backslashes.  
