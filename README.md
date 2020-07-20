@@ -3,7 +3,7 @@ ARCHIVED! See: https://github.com/melsbacksfriend/Melsbackslib
 
 The first header in an awesome library called Melsbackslib
 
-~~This will be archived when the second header is made.  Updates will continue in that repo.  ~~
+~~This will be archived when the second header is made.~~  ~~Updates will continue in that repo.~~
 
 This header takes a C string containing a file and path and returns a C++ string with just the folder name.  
 
